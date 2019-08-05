@@ -198,7 +198,7 @@ bar {
                 focused_workspace  #181a1f #323842 #dcdcdc
                 active_workspace   #181a1f #21252b #9fa3ad
                 inactive_workspace #181a1f #21252b #838995
-                urgent_workspacei  #181a1f #ebcb8b #2f343f
+                urgent_workspace   #181a1f #ebcb8b #2f343f
         }
 }
 
@@ -211,6 +211,6 @@ client.placeholder      #181a1f #181a1f #d8dee8 #181a1f #181a1f
 client.background       #181a1f
 
 # Window rules
-assign [class=Firefox] 2
+assign [class=firefox] 2
 assign [class=jetbrains-idea] 3
 assign [class=code-oss] 4
