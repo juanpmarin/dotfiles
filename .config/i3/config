@@ -212,3 +212,5 @@ client.background       #181a1f
 
 # Window rules
 assign [class=Firefox] 2
+assign [class=jetbrains-idea] 3
+assign [class=code-oss] 4
