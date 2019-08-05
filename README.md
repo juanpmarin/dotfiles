@@ -1,6 +1,6 @@
 # My personal dotfiles
 
-based on https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b
+Based on https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b
 
 ## Setup environment in a new computer
 
