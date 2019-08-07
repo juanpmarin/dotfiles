@@ -211,6 +211,8 @@ client.placeholder      #181a1f #181a1f #d8dee8 #181a1f #181a1f
 client.background       #181a1f
 
 # Window rules
-assign [class=firefox] 2
+assign [class=firefox|Slack] 2
+for_window [class="Spotify"] move to workspace 2
 assign [class=jetbrains-idea] 3
 assign [class=code-oss] 4
+assign [class="MongoDB Compass"] 5
