@@ -114,3 +114,7 @@ alias cluster='gcloud container clusters get-credentials '
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
+export SDKMAN_DIR="/home/juanmarin/.sdkman"
+[[ -s "/home/juanmarin/.sdkman/bin/sdkman-init.sh" ]] && source "/home/juanmarin/.sdkman/bin/sdkman-init.sh"
