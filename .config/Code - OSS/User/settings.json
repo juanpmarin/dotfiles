@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "One Dark Pro",
     "editor.fontLigatures": true,
-    "editor.fontFamily": "'FuraCode Nerd Font', 'monospace', monospace, 'Droid Sans Fallback'"
+    "editor.fontFamily": "'FuraCode Nerd Font', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.startupEditor": "newUntitledFile"
 }
